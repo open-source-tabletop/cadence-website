@@ -1,7 +1,6 @@
 .md-typeset__table {
   display: initial;
 }
-
 .md-typeset table:not([class]) {
   display: table;
 }
@@ -15,16 +14,13 @@
 .md-typeset table:not([class]) td {
     padding:.8em .4em;
 }
-  
 .md-typeset h1 {
     font-size:2em;
     margin:0 0 1.5em
 }
-
 .md-typeset hr {
     margin:2.5em 0
 }
-
 .md-main {
     margin-bottom: 5em;
 }

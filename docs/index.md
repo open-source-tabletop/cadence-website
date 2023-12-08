@@ -54,7 +54,7 @@ The core rules provide a foundation so making your own game to play with any min
 
     The core rules are used in every Cadence game and are quick and easy to learn, while offering enough detail for a dynamic and exciting game.
     
-    [Read the Rules](core-rules/introduction.md){ .md-button }
+    [Read the Rules](core-rules/introduction.md){ .md-button .md-button--primary }
 
 -   **Find a Game**
 
@@ -62,6 +62,6 @@ The core rules provide a foundation so making your own game to play with any min
 
     There are several games available that use Cadence, many of which you can try with your existing collection of miniatures.
     
-    [Find a Game to Try](released-games.md){ .md-button }
+    [Find a Game to Try](released-games.md){ .md-button .md-button--primary }
 
 </div>
