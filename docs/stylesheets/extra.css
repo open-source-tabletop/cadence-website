@@ -24,3 +24,11 @@
 .md-main {
     margin-bottom: 5em;
 }
+
+p.feature {
+  font-size:1.5625em;
+  line-height:1.4;
+  margin:1.6em 0 1.64em;
+  font-weight: 300;
+  letter-spacing: -.01em;
+}

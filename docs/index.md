@@ -6,7 +6,8 @@ hide:
 
 ---
 
-## Cadence is a modern tabletop wargame ruleset designed to be **lightweight**, **miniatures agnostic**, **community owned**, and **flexible** enough to be used in a wide variety of games. You will find both the Core Rules to the game here as well as a number of games that you can try across a variety of settings. Beyond that you can create your own games and contribute to the development of the system and its games.
+Cadence is a modern tabletop wargame ruleset designed to be **lightweight**, **miniatures agnostic**, **community owned**, and **flexible** enough to be used in a wide variety of games. You will find both the Core Rules to the game here as well as a number of games that you can try across a variety of settings. Beyond that you can create your own games and contribute to the development of the system and its games.
+{ .feature}
 
 
 <div class="grid cards" markdown>
