@@ -1,0 +1,98 @@
+site_name: Cadence
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      toc_depth: 3
+theme:
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+nav:
+  - Home: index.md
+  - Core Rules:
+    - Introduction: core-rules/introduction.md
+    - Basic Rules: core-rules/basic-rules.md
+    - Playing a Game: core-rules/playing-a-game.md
+    - Advanced Rules: core-rules/advanced-rules.md
+    - Special Rules Appendix: core-rules/special-rules-appendix.md
+  - About:
+    - About the Game: about/about-the-game.md
+  - Released Games:
+    - released-games.md
+    - Devil's Bluff:
+      - Introduction: devils-bluff/introduction.md
+      - Module Rules: devils-bluff/module-rules.md
+      - Making Your Gang: devils-bluff/making-your-gang.md
+      - Missions: devils-bluff/missions.md
+    - Fracture:
+      - Introduction: fracture/introduction.md
+      - Module Rules: fracture/module-rules.md
+      - Building an Army: fracture/building-an-army.md
+      - Army Lists:
+        - Sentinels: fracture/army-lists/sentinels.md
+        - Marauders: fracture/army-lists/marauders.md
+        - The Endless: fracture/army-lists/the-endless.md
+        - The Swarm: fracture/army-lists/the-swarm.md
+        - Voidborn Corsairs: fracture/army-lists/voidborn-corsairs.md
+      - Missions: fracture/missions.md
+    - Respawn:
+      - Introduction: respawn/introduction.md
+      - Module Rules: respawn/module-rules.md
+      - Season 1 - Big Guns: respawn/season-1-big-guns.md
+      - Creating Your Team: respawn/creating-your-team.md
+      - Missions: respawn/missions.md
+    - Scraplands Showdown:
+      - Introduction: scraplands/introduction.md
+      - Module Rules: scraplands/module-rules.md
+      - Building a Team: scraplands/building-a-team.md
+      - Missions: scraplands/missions.md
+    - Squadrons:
+      - Introduction: squadrons/introduction.md
+      - Module Rules: squadrons/module-rules.md
+      - Building a Squadron: squadrons/building-a-squadron.md
+      - Fleets:
+        - Star Wars Fleets: squadrons/fleets/star-wars-fleets.md
+        - Battlestar Galactica Fleets: squadrons/fleets/battlestar-galactica-fleets.md
+        - Fractured Skies: squadrons/fractured-skies.md
+      - Missions: squadrons/missions.md
+  - Games In Development:
+    - games-in-development.md
+    - "Halo: Breakpoint":
+      - Introduction: halo-breakpoint/introduction.md
+      - Module Rules: halo-breakpoint/module-rules.md
+      - Building an Army: halo-breakpoint/building-an-army.md
+      - Army Lists:
+        - UNSC Army List: halo-breakpoint/army-lists/unsc-army-list.md
+        - Covenant Army List: halo-breakpoint/army-lists/covenant-army-list.md
+    - Survivors:
+      - Introduction: survivors/introduction.md
+      - Module Rules: survivors/module-rules.md
+      - Gather Your Survivors: survivors/gather-your-survivors.md
+      - Campaigns: survivors/campaigns.md
+      - Missions: survivors/missions.md
+      - Additional Rules: survivors/additional-rules.md
