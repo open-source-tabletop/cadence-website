@@ -4,7 +4,7 @@
 
 ## [Devil's Bluff](devils-bluff/introduction.md)
 
-Devil's Bluff is a lawless place where anything goes and danger walks hand-in-hand with opportunity. Put together a gang of gunslingers, battle for dominance, wealth, and power, as you build your Wild West legend.
+Devil's Bluff is a Wild West Skirmish Game set in the town of Solitude, a mysterious frontier town full of the forgotten and lost. In this place the only law is what you can enforce at the end of a gun.
 
 [Play Devil's Bluff](devils-bluff/introduction.md){ .md-button .md-button--primary }
 
