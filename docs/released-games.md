@@ -20,11 +20,11 @@ Respawn is a tabletop team skirmish game, requiring only 3-6 miniatures per play
 
 [Play Respawn](respawn/introduction.md){ .md-button .md-button--primary }
 
-## [Scraplands Showdown](scraplands/introduction.md)
+## [Scraplands](scraplands/introduction.md)
 
-Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of cars, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal Showdown.
+Scraplands is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of cars, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal showdown.
 
-[Play Scraplands Showdown](scraplands/introduction.md){ .md-button .md-button--primary }
+[Play Scraplands](scraplands/introduction.md){ .md-button .md-button--primary }
 
 ## [Squadrons](squadrons/introduction.md)
 
