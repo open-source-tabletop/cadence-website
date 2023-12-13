@@ -32,3 +32,9 @@ p.feature {
   font-weight: 300;
   letter-spacing: -.01em;
 }
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}

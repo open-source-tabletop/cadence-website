@@ -18,8 +18,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: amber
-      accent: amber
+      primary: red
+      accent: red
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
@@ -27,8 +27,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: amber
-      accent: amber
+      primary: red
+      accent: red
       toggle:
         icon: material/lightbulb-outline
         name: Switch to system preference
