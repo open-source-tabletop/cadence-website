@@ -10,3 +10,5 @@
 - Rules Changes:
   - Removed the ability to play sets or runs from your hand. Adds complexity and almost never comes up.
   - Clarified objectives: they now require a Skill Draw rather than a fixed value.
+- Missions:
+  - Changed mission 1 to 'Gold Rush', balanced objective placement and clarified how objectives are scored if one gang routs.
