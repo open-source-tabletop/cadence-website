@@ -12,3 +12,4 @@
   - Clarified objectives: they now require a Skill Draw rather than a fixed value.
 - Missions:
   - Changed mission 1 to 'Gold Rush', balanced objective placement and clarified how objectives are scored if one gang routs.
+  - Balanced mission 2 "Run them out of town", increasing the points for the central control objective and adding secondary objectives near your opponents entry points.
