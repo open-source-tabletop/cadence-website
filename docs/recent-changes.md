@@ -1,5 +1,7 @@
 # Recent Changes
 
+This page shows any changes to the Core Rules or any released games, changes to games currently in development are not shown as these can change regularly.
+
 ## Next Update
 
 ### Devil's Bluff
