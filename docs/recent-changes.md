@@ -4,10 +4,15 @@ This page shows any changes to the Core Rules or any released games, changes to 
 
 ## Next Update
 
+### Website
+
+- Added the "Recent Changes" page, so users can see a history of changes without viewing Github.
+- Changed some minor wording of text on the home page.
+
 ### Devil's Bluff
 
 - Gang Balances:
-    - Reduced 'Leader' Command attribute from 6 to 5
+    - Reduced 'Leader' Command attribute from 6 to 5.
     - Aces Wild now restricted to one per gang.
     - Hired Guns cannot take equipment.
     - Shotgun, Rifle, and Hunting Rifle points increased.
@@ -19,3 +24,12 @@ This page shows any changes to the Core Rules or any released games, changes to 
     - Balanced mission 2 "Run them out of town", increasing the points for the central control objective and adding secondary objectives near your opponents entry points.
 - Campaigns:
     - Work in progress of a Campaign system.
+
+### Fracture
+
+- Introduction:
+    - Minor formatting and wording changes.
+- The Swarm Army List:
+    - Added Psionic Queen
+        - Added Psionic Upgrades and Weapons.
+    - Minor formatting changes.
