@@ -1,0 +1,40 @@
+.md-typeset__table {
+  display: initial;
+}
+.md-typeset table:not([class]) {
+  display: table;
+}
+.md-typeset__scrollwrap {
+  margin:1em 0;
+}
+.md-typeset table:not([class]) th {
+    min-width:2rem;
+    padding:.8em .4em;
+}
+.md-typeset table:not([class]) td {
+    padding:.8em .4em;
+}
+.md-typeset h1 {
+    font-size:2em;
+    margin:0 0 1.5em
+}
+.md-typeset hr {
+    margin:2.5em 0
+}
+.md-main {
+    margin-bottom: 5em;
+}
+
+p.feature {
+  font-size:1.5625em;
+  line-height:1.4;
+  margin:1.6em 0 1.64em;
+  font-weight: 300;
+  letter-spacing: -.01em;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}
