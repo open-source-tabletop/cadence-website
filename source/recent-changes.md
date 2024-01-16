@@ -33,3 +33,12 @@ This page shows any changes to the Core Rules or any released games, changes to 
     - Added Psionic Queen
         - Added Psionic Upgrades and Weapons.
     - Minor formatting changes.
+
+
+### Respawn
+
+- Added new season: "Run and Gun"
+    - Adds 3 new ways for your models to move around, choose one to apply to your entire team for even faster paced games.
+    - New Energy Barriers terrain.
+    - New Proximity Objectives.
+    - New mission.
